@@ -12,4 +12,6 @@ public interface VechileService {
 	public Vechile findOne(String id);
 	public List<Vechile> add(List<Vechile> vechiles);
 	public VechileDetails addvechiledetails(VechileDetails vechiledetails);
+	
+			//comment
 }
